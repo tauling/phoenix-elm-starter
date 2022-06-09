@@ -249,6 +249,7 @@ to install
 
 ```sh
 npm install -D esbuild-plugin-elm
+npm install -D esbuild
 ```
 
 ### 2. Create the "initialization" `index.js` file
